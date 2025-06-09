@@ -42,27 +42,27 @@ royalflavours/
 - Landing page with menu categories, offers, and highlights.
 
 index.html
-
+https://github.com/alanbennny/royalflavours/blob/main/codes
 
 ### `menu.html`
 - Displays all food items by category.
 - "Add to Cart" functionality integrated.
   index.html
-
+https://github.com/alanbennny/royalflavours/blob/main/codes
 
 ### `about.html`
 - Brief overview of RoyalFlavours, mission, and services.
 
-
+https://github.com/alanbennny/royalflavours/blob/main/codes
 ### `contact.html`
 - User contact and feedback form.
-
+https://github.com/alanbennny/royalflavours/blob/main/codes
 ### `checkout.html`
 - Captures customer details and order summary.
 - LocalStorage-enabled order persistence.
 
 ### `order-confirmation.html`
-
+https://github.com/alanbennny/royalflavours/blob/main/codes
 ## 🛒 Core JavaScript: `cart.js`
 
 Handles cart initialization, item add/remove, quantity update, and localStorage operations.

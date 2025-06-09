@@ -6,7 +6,7 @@
 **Live Demo:** [royalflavours.store](https://royalflavours.store)  
 **Public IP:** `13.250.220.174`  
 **Domain Provider:** Namecheap.com  
-**GitHub Repository:** [GitHub Repo](https://github.com/[yourusername]/royalflavours)
+**GitHub Repository:** [GitHub Repo](https://github.com/alanbennny/royalflavours)
 
 ---
 

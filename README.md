@@ -7,8 +7,8 @@
 **Public IP:** `13.250.220.174`  
 **Domain Provider:** Namecheap.com  
 **GitHub Repository:** [GitHub Repo](https://github.com/alanbennny/royalflavours)
-**Video Explainer** https://murdochuniversity-my.sharepoint.com/:p:/g/personal/35642348_student_murdoch_edu_au/EXE5Z8Q7o9RGp-HTAd71LtcBTNbuMTr36lXVT7doz-96TQ?e=IJmqX9
 
+**Video Explainer** https://murdochuniversity-my.sharepoint.com/:v:/g/personal/35642348_student_murdoch_edu_au/ETVl7OpkOvZGlHINRNmdYYgB7VhaRiaeeIZfyv8JyohH5g?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=njR6F9
 ---
 
 ## 🌐 Overview

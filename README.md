@@ -202,19 +202,6 @@ curl -I http://localhost
 
 ---
 
-## 📊 Rubric Alignment
-
-| Criteria | Met? |
-|----------|------|
-| GitHub Commits | ✅ Ongoing weekly commits |
-| Website Functionality | ✅ Cart + Checkout + Multi-page |
-| Cloud Hosting | ✅ EC2 with domain (royalflavours.store) |
-| SSL/TLS | ✅ Let's Encrypt HTTPS |
-| Documentation | ✅ This `README.md` file |
-| DNS | ✅ A-record via Namecheap |
-| Scripts | ✅ Functional and custom-coded |
-
----
 
 ## 🔗 References
 
